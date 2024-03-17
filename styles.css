@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+    background-color: #011F3F;
+  }
+  
+ 
+  
+  .container {
+    display: block;
+    margin: 20px;
+  
+  }
+  
+  .btn {
+    margin: px;
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    border: 10px solid black;
+    border-radius: 20%;
+    background-color:darkmagenta;
+  }
+  
+  
+  .dce {
+    margin: 25px;
+    display: inline-block;
+    height: 260px;
+    width: 260px;
+    border: 10px solid black;
+    border-radius: 20%;
+  }
+  
+  
+  .cursor {
+    box-shadow: 0 0 20px white;
+    background-color: grey;
+  }
+  h2
+  {
+    color:whitesmoke;
+    background-color:brown;
+  }
+  p
+  {
+  color :chocolate;
+  background-color: whitesmoke;
+  }
+  footer
+  {
+  color:yellow;
+  }
